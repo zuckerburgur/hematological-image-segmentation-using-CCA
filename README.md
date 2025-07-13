@@ -73,12 +73,12 @@ cd hematology-segmentation-cca
 ```
 
 2. Access datasets: https://drive.google.com/drive/folders/1DUDnYXZQF6zSZDl0RJIsdo8lqiZOJQoV?usp=sharing
-\nThe dataset consists of paired microscopic images and manually annotated ground truth masks. Each 
+##### The dataset consists of paired microscopic images and manually annotated ground truth masks. Each 
 image has a corresponding labeled mask where: 
-• White region represents the nucleus of the WBC. 
-• Gray region represents the cytoplasm of the WBC. 
-• Black region represents the background. 
-Each image is labeled pixel-wise, enabling precise segmentation.
+#### White region represents the nucleus of the WBC. 
+#### Gray region represents the cytoplasm of the WBC. 
+#### Black region represents the background. 
+#####Each image is labeled pixel-wise, enabling precise segmentation.
 
 3. Run main.py.
 
