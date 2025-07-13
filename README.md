@@ -73,7 +73,7 @@ cd hematology-segmentation-cca
 ```
 
 2. Access datasets: https://drive.google.com/drive/folders/1DUDnYXZQF6zSZDl0RJIsdo8lqiZOJQoV?usp=sharing
-The dataset consists of paired microscopic images and manually annotated ground truth masks. Each 
+\nThe dataset consists of paired microscopic images and manually annotated ground truth masks. Each 
 image has a corresponding labeled mask where: 
 • White region represents the nucleus of the WBC. 
 • Gray region represents the cytoplasm of the WBC. 
